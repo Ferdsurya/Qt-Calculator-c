@@ -13,4 +13,7 @@ This calculator project is created with the aim of understanding basic operation
 - Clear Display: Simple and intuitive user interface to facilitate users in using the calculator.
 - Customization Ability: You can customize the appearance of the calculator on mainwindow.ui
 
+**User Interface Guide**
+![UI_calculator](https://github.com/Ferdsurya/Qt-Calculator-cpp/assets/168256127/4a674915-8c8c-46b3-8c9d-077b23539f7f)
+
 *This project was built on Qt creator 4.11.1
