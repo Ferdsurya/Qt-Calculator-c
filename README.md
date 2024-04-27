@@ -4,7 +4,7 @@ This calculator project is created with the aim of understanding basic operation
 
 
 **Screenshot**
-![Preview Calculator](https://github.com/Ferdsurya/Qt-Calculator-cpp/assets/168256127/745b1bcc-2cbd-4b6a-a16b-378d1dae1ca0)
+![Screenshot 2024-04-27 131556](https://github.com/Ferdsurya/Qt-Calculator-cpp/assets/168256127/18c04236-6e59-47d3-9cc7-9c9208747684)
 
 **Features**
 
